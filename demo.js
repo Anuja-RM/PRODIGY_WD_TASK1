@@ -19,5 +19,5 @@ function f5() {
 }
 
 function f6() {
-    document.querySelector("body").style.backgroundImage = "url('Machu_Picchu')";
+    document.querySelector("body").style.backgroundImage = "url('Machu_Picchu.jpg')";
 }
